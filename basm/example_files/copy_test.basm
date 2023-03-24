@@ -1,0 +1,6 @@
+WRITE 'H'
+COPY 1,2 ; This copies a value from the current reg to 1 using 2 as tmp reg
+; Check if the copying works
+PRINT
+MOVE 1
+PRINT
